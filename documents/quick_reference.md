@@ -45,7 +45,7 @@ Below are examples of common sources cited by students in academic papers.
 
 What|Example|Add to Zotero
 ---|---|---
-**Reported cases**|*Commercial Bank of Australia v Amadio* (1983) 151 CLR 447|![](../static/img/qrtable1_reported.png)
+**Reported cases**|*Commercial Bank of Australia v Amadio* (1983) 151 CLR 447|<img src="../static/img/qrtable1_reported.png" width=1000>
 **Medium-neutral citations**|*Delaforce v Simpson-Cook* [2010] NSWCA 84|![](../static/img/qrtable2_mnc.png)
 **Case with a short name**|*Commonwealth v Tasmania* (1983) 158 CLR 1 ('*Tasmanian Dams Case*')|![](../static/img/qrtable3_cwn.png)
 **Act**|*Fences Act 1936* (SA)|![](../static/img/qrtable4_act.png)
