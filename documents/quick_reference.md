@@ -23,7 +23,7 @@ Zotero can be run from any Windows, MacOS or Linux computer. There are also iPad
 * Make sure the Word add-in is installed and that the classic add citation dialog is selected
 
 <p align="center">
-    <img src="../static/img/qref1.png">
+    <img src="../static/img/qref1.png" >
 </p>
 
 ### Add AGLC4 Style to Zotero
