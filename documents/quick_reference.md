@@ -45,12 +45,12 @@ Below are examples of common sources cited by students in academic papers.
 
 What|Example|Add to Zotero
 ---|---|---
-**Reported cases**|*Commercial Bank of Australia v Amadio* (1983) 151 CLR 447|![](../static/img/qrtable1.png)
-**Medium-neutral citations**|*Delaforce v Simpson-Cook* [2010] NSWCA 84|![](../static/img/qrtable2.png)
-**Case with a short name**|*Commonwealth v Tasmania* (1983) 158 CLR 1 ('*Tasmanian Dams Case*')|![](../static/img/qrtable3.png)
-**Act**|*Fences Act 1936* (SA)|![](../static/img/qrtable4.png)
-**Bill**|Aged Care Bill 2024 (Cth)|![](../static/img/qrtable5.png)
-**Book**|George Williams, Sean Brennan and Andrew Lynch, *Blackshield and Williams: Australian Constitutional Law and Theory* (Federation Press, 7th ed, 2018)|![](../static/img/qrtable6.png)
-**Journal Article**|Michelle Evans, ‘Rethinking the Federal Balance: How Federal Theory Supports States’ Rights’ (2010) 1 *The Western Australian Jurist* 14.|![](../static/img/qrtable7.png)
-**Web Page**|‘Vanuatu Concerned about Food Supply in the Wake of Cyclone Pam’ (18 March 2015) <http://www.abc.net.au/am/content/2015/s4199741.htm>.|![](../static/img/qrtable8.png)
-**Legal Encyclopaedia Article**|LexisNexis Butterworths, *Halsbury’s Laws of Australia* (at 28 November 2011) ‘General Nature and Principles of Estoppel’ [190-5].|![](../static/img/qrtable9.png)
+**Reported cases**|*Commercial Bank of Australia v Amadio* (1983) 151 CLR 447|![](../static/img/qrtable1_reported.png)
+**Medium-neutral citations**|*Delaforce v Simpson-Cook* [2010] NSWCA 84|![](../static/img/qrtable2_mnc.png)
+**Case with a short name**|*Commonwealth v Tasmania* (1983) 158 CLR 1 ('*Tasmanian Dams Case*')|![](../static/img/qrtable3_cwn.png)
+**Act**|*Fences Act 1936* (SA)|![](../static/img/qrtable4_act.png)
+**Bill**|Aged Care Bill 2024 (Cth)|![](../static/img/qrtable5_bill.png)
+**Book**|George Williams, Sean Brennan and Andrew Lynch, *Blackshield and Williams: Australian Constitutional Law and Theory* (Federation Press, 7th ed, 2018)|![](../static/img/qrtable6_book.png)
+**Journal Article**|Michelle Evans, ‘Rethinking the Federal Balance: How Federal Theory Supports States’ Rights’ (2010) 1 *The Western Australian Jurist* 14.|![](../static/img/qrtable7_article.png)
+**Web Page**|‘Vanuatu Concerned about Food Supply in the Wake of Cyclone Pam’ (18 March 2015) <http://www.abc.net.au/am/content/2015/s4199741.htm>.|![](../static/img/qrtable8_web.png)
+**Legal Encyclopaedia Article**|LexisNexis Butterworths, *Halsbury’s Laws of Australia* (at 28 November 2011) ‘General Nature and Principles of Estoppel’ [190-5].|![](../static/img/qrtable9_encyc.png)

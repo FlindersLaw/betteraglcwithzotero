@@ -5,6 +5,6 @@ This repository contains the companion documentation to the [Better AGLC With Zo
 [![Better AGLC With Zotero](https://img.youtube.com/vi/qd13d27LLCw/0.jpg)](https://www.youtube.com/watch?v=qd13d27LLCw)
 
 # Companion Documentation
-* [Quick Reference Guide](xxx)
+* [Quick Reference Guide](./documents/quick_reference.md)
 
 That's it for now!
